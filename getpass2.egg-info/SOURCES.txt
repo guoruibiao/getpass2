@@ -1,0 +1,8 @@
+setup.py
+getpass2/__init__.py
+getpass2/getpass2.py
+getpass2.egg-info/PKG-INFO
+getpass2.egg-info/SOURCES.txt
+getpass2.egg-info/dependency_links.txt
+getpass2.egg-info/entry_points.txt
+getpass2.egg-info/top_level.txt

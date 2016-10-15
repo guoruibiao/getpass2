@@ -1,0 +1,3 @@
+[console_points]
+getpass = getpass2.getpass2:getpass
+
